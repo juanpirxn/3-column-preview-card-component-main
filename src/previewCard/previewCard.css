@@ -1,0 +1,20 @@
+.preview-card-container {
+  width: 350px;
+  height: 620px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+.img-container {
+  width: 100%;
+  float: left;
+}
+
+.preview-card-tittle {
+  width: 100%;
+  float: left;
+}
